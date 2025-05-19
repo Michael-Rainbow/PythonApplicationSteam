@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dc04a621-6037-4428-b4ba-f8ba4cdc1383</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>tests\run_tests.py</StartupFile>
+    <StartupFile>run_tests.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +23,7 @@
   <ItemGroup>
     <Compile Include="Funcs.py" />
     <Compile Include="PythonApplicationSteam.py" />
-    <Compile Include="tests\run_tests.py" />
+    <Compile Include="run_tests.py" />
     <Compile Include="tests\__init__.py" />
   </ItemGroup>
   <ItemGroup>
