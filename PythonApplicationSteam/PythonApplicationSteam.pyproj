@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dc04a621-6037-4428-b4ba-f8ba4cdc1383</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonApplicationSteam.py</StartupFile>
+    <StartupFile>tests\run_tests.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,15 @@
   <ItemGroup>
     <Compile Include="Funcs.py" />
     <Compile Include="PythonApplicationSteam.py" />
+    <Compile Include="tests\run_tests.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="tests\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="tests\README.md" />
+    <Content Include="tests\setup_test_env.sh" />
+    <Content Include="tests\SUMMARY.md" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

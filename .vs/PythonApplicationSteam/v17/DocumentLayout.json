@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Michael\\source\\repos\\PythonApplicationSteam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC04A621-6037-4428-B4BA-F8BA4CDC1383}|PythonApplicationSteam\\PythonApplicationSteam.pyproj|C:\\Users\\Michael\\source\\repos\\PythonApplicationSteam\\PythonApplicationSteam\\PythonApplicationSteam.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DC04A621-6037-4428-B4BA-F8BA4CDC1383}|PythonApplicationSteam\\PythonApplicationSteam.pyproj|solutionrelative:PythonApplicationSteam\\PythonApplicationSteam.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC04A621-6037-4428-B4BA-F8BA4CDC1383}|PythonApplicationSteam\\PythonApplicationSteam.pyproj|C:\\Users\\Michael\\source\\repos\\PythonApplicationSteam\\PythonApplicationSteam\\Funcs.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{DC04A621-6037-4428-B4BA-F8BA4CDC1383}|PythonApplicationSteam\\PythonApplicationSteam.pyproj|solutionrelative:PythonApplicationSteam\\Funcs.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC04A621-6037-4428-B4BA-F8BA4CDC1383}|PythonApplicationSteam\\PythonApplicationSteam.pyproj|C:\\Users\\Michael\\source\\repos\\PythonApplicationSteam\\PythonApplicationSteam\\PythonApplicationSteam.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC04A621-6037-4428-B4BA-F8BA4CDC1383}|PythonApplicationSteam\\PythonApplicationSteam.pyproj|solutionrelative:PythonApplicationSteam\\PythonApplicationSteam.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Funcs.py",
               "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\PythonApplicationSteam\\PythonApplicationSteam\\Funcs.py",
               "RelativeDocumentMoniker": "PythonApplicationSteam\\Funcs.py",
               "ToolTip": "C:\\Users\\Michael\\source\\repos\\PythonApplicationSteam\\PythonApplicationSteam\\Funcs.py",
               "RelativeToolTip": "PythonApplicationSteam\\Funcs.py",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFhSURBVDhPpZMxa8JQFIVP2kImyeJWhVA7O\u002BQv9Bc416kgGTJlEorg1jGiU6dAhm4ZnYRuySQ46WKgKBIEN6MgRmPKvdVUrYvpByd59\u002BW\u002Bw3kviXDvvcdIif\u002Bogg0eXj72U9fxZT7jhga73S6ViDu6RFHERafT4ftyuYTrumi1Wshms6hWq1AUBfP5HJZlwbZt7iPYYLvdcpHJZGAYBqbTKer1OgaDAcrlMi/UNA35fB6iKCb9xIkB0e/3MRwOsVgsUCwWUSgUUCqVMBqN0O12912/8BmQwcHENE04joMgCNBut3kujuOk51gEJ9hsNlwQuq6j1\u002BthNptBEAR4nodarYZmswlZlpHL5dBoNPbdZwkmkwlH9X2fTcMwRKVSwWq14mSqqmI8Hp8k4O/g9umNi2uJPl9/EqzX61Qi2ICiplFiQPsl0fu/pMPzc/0xkCTpoo4XHSsxOJzqtSL\u002B9TsDwDex6od/6UYAAgAAAABJRU5ErkJggg==",
               "WhenOpened": "2025-05-19T11:11:06.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PythonApplicationSteam.py",
               "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\PythonApplicationSteam\\PythonApplicationSteam\\PythonApplicationSteam.py",
               "RelativeDocumentMoniker": "PythonApplicationSteam\\PythonApplicationSteam.py",
               "ToolTip": "C:\\Users\\Michael\\source\\repos\\PythonApplicationSteam\\PythonApplicationSteam\\PythonApplicationSteam.py",
               "RelativeToolTip": "PythonApplicationSteam\\PythonApplicationSteam.py",
-              "ViewState": "AQIAAPgAAAAAAAAAAAAqwPcAAAA3AAAA",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAqwPcAAAA3AAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFhSURBVDhPpZMxa8JQFIVP2kImyeJWhVA7O\u002BQv9Bc416kgGTJlEorg1jGiU6dAhm4ZnYRuySQ46WKgKBIEN6MgRmPKvdVUrYvpByd59\u002BW\u002Bw3kviXDvvcdIif\u002Bogg0eXj72U9fxZT7jhga73S6ViDu6RFHERafT4ftyuYTrumi1Wshms6hWq1AUBfP5HJZlwbZt7iPYYLvdcpHJZGAYBqbTKer1OgaDAcrlMi/UNA35fB6iKCb9xIkB0e/3MRwOsVgsUCwWUSgUUCqVMBqN0O12912/8BmQwcHENE04joMgCNBut3kujuOk51gEJ9hsNlwQuq6j1\u002BthNptBEAR4nodarYZmswlZlpHL5dBoNPbdZwkmkwlH9X2fTcMwRKVSwWq14mSqqmI8Hp8k4O/g9umNi2uJPl9/EqzX61Qi2ICiplFiQPsl0fu/pMPzc/0xkCTpoo4XHSsxOJzqtSL\u002B9TsDwDex6od/6UYAAgAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-05-06T13:52:40.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T13:52:40.118Z"
             }
           ]
         }
