@@ -24,6 +24,9 @@
     <Compile Include="Funcs.py" />
     <Compile Include="PythonApplicationSteam.py" />
     <Compile Include="run_tests.py" />
+    <Compile Include="tests\test_app.py" />
+    <Compile Include="tests\test_funcs.py" />
+    <Compile Include="tests\test_intergration.py" />
     <Compile Include="tests\__init__.py" />
   </ItemGroup>
   <ItemGroup>

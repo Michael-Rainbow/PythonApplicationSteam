@@ -1,7 +1,7 @@
 import requests
 import tkinter as tk
 from tkinter import messagebox, Scrollbar, Canvas, Frame
-from PIL import Image, ImageTk
+from PIL import Image, ImageTk, UnidentifiedImageError
 import io
 import os
 import threading
